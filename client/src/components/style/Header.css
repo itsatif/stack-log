@@ -1,0 +1,7 @@
+
+.Header{
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    background: linear-gradient(#e66465, #9198e5);
+}

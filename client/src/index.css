@@ -1,0 +1,8 @@
+*{
+  font-family: cursive;
+}
+
+body{
+  height: 100%;
+  overflow-y: auto;
+}

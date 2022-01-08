@@ -1,0 +1,32 @@
+.Login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    background: linear-gradient(#e66465, #9198e5);
+    border: 1px solid black;
+}
+
+.login-form{
+    width: 50%;
+    border-radius: 10%;
+    /* margin: 10px; */
+}
+
+.Login .login-form input{
+    font-size: 10px;
+    width: 70%;
+}
+
+
+button{
+    border-radius: 20%;
+    margin-bottom: 3px;
+    background-color: #e66465;
+}
+
+input{
+    background-color: #9198e5;
+    border-radius: 30%;
+}
